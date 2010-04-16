@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:stretchColumns="*" 
+  android:id="@+id/alert_dialog_body">
+  <TextView
+  	android:text="Enter a name for the location:" 
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"/>
+  	<EditText
+  		android:id="@+id/input_data_txt_fld"
+  		android:layout_width="fill_parent"
+  		android:layout_height="wrap_content" />
+</TableLayout>

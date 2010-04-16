@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">sms geo</string>
+    
+    <!-- button texts -->
+    <string name="new_msg_btn_txt">new message</string>
+    <string name="sent_msgs_btn_txt">sent messages</string>
+    <string name="about_btn_txt">about smsgeo</string>
+    <string name="help_btn_txt">help</string>
+    <string name="exit_btn_txt">exit application</string>
+    
+    <string name="send_msg_btn_txt">send message</string>
+    <string name="back_home_btn_txt">back home</string>
+    
+    <!-- label texts -->
+    <string name="home_screen_title">sms geo</string>
+	<string name="phone_num">phone number</string>
+	<string name="info_to_send">type the info about the location</string>
+	<string name="enter_phone_num_prompt">enter a phone number to send to</string>
+	
+	<string name="comp_msg_activity">Compose New Message</string>
+	<string name="sent_msgs_activity">Sent Messages</string>
+	<string name="about_activity">About</string>
+	<string name="help_activity">Help</string>
+	<string name="input_dialog_activity">Enter Info</string>
+	
+	
+	<string name="emptymsgs">no messages saved yet</string>
+	<string name="emptylocs">no locations saved yet</string>
+	
+	<string name="tophonenum">+233271373572</string>
+	
+	<!-- help information about using the application follows below -->
+	<string name="help_text">\
+		To send an information click "new message" then type the message and then click send, 
+		your location will be added automatically.\
+		Your message would be sent to the predefined phone number.
+		Click on "sent messages" to see a list of all previously sent messages. 
+	</string>
+	
+	<!-- about smsgeo text -->
+	<string name="about_text">\
+		SMS Geographer is an application to facilitate tagging of locations
+		on Google Maps with the use of a GPS enabled cell phone. Messages are
+		sent over GSM-SMS thus reducing the amount of data sent over the network 
+		as compared to loading a full map then plotting the location. 
+		Some form of cartography you may call it. 
+	</string>
+</resources>
